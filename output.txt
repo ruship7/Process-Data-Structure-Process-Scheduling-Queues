@@ -1,0 +1,12 @@
+[TIME 0] Process 1003 status changed to LOADING
+[TIME 0] Process 1001 status changed to LOADING
+[TIME 0] Process 1002 status changed to LOADING
+[TIME 0] Process 1004 status changed to LOADING
+[TIME 0] Process 1005 status changed to LOADING
+[TIME 0] Process 1003 status changed to READY
+--- Current Queues at TIME 0 ---
+Load Queue: 1001 1002 1004 1005 
+Ready Queue: 1003 
+Terminated Processes: 
+-----------------------
+...
